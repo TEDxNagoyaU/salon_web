@@ -51,9 +51,9 @@ a.btn-gradient:hover {
   font-family: "Std B", "筑紫B丸ゴシック";
 }
 
-.title-tedxnagoyau {
-  font-size: 2.5rem;
-}
+/* .title-tedxnagoyau {
+  font-size: 2.75rem;
+} */
 
 .salon {
   color: rgb(236, 72, 22);
@@ -61,7 +61,7 @@ a.btn-gradient:hover {
   animation-duration: 2.5s;
   animation-fill-mode: forwards;
   opacity: 0;
-  font-size: 3.5rem;
+  /* font-size: 3.75rem; */
 }
 @keyframes fadeInAnime {
   from {
