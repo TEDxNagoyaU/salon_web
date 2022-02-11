@@ -58,7 +58,7 @@ a.btn-gradient:hover {
   animation-duration: 2.5s;
   animation-fill-mode: forwards;
   opacity: 0;
-  font-size: 2.75rem;
+  font-size: 3.5rem;
 }
 @keyframes fadeInAnime {
   from {
