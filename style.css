@@ -1,5 +1,9 @@
 body {
-  font-family: "Tsukushi A Round Gothic", "筑紫A丸ゴシック";
+  /* font-family: "Tsukushi A Round Gothic", "筑紫A丸ゴシック"; */
+  font-family: "M PLUS Rounded 1c", sans-serif;
+  font-family: "Mohave", sans-serif;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Zen Kaku Gothic Antique", sans-serif;
   background-color: rgb(239, 247, 248);
 }
 
@@ -50,7 +54,6 @@ a.btn-gradient:hover {
 .title-tedxnagoyau {
   font-size: 2.5rem;
 }
-
 
 .salon {
   color: rgb(236, 72, 22);
@@ -176,9 +179,9 @@ a.btn-gradient:hover {
 .caution ul li:before {
   font-family: "Font Awesome 5 Free";
   content: "\f138"; /*アイコンの種類*/
-  /* position: absolute; */
-  /* left: 1em; 左端からのアイコンまでの距離 */
-  /* color: rgb(0, 0, 0); アイコン色 */
+/* position: absolute; */
+/* left: 1em; 左端からのアイコンまでの距離 */
+/* color: rgb(0, 0, 0); アイコン色 */
 /* } */
 
 .contact {
