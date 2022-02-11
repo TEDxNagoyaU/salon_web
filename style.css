@@ -41,7 +41,7 @@ a.btn-gradient:hover {
 .title {
   padding: 3rem;
   text-align: center;
-  font-size: 2.75rem;
+  font-size: 100%;
   height: auto;
   opacity: 0.85;
   font-family: "Std B", "筑紫B丸ゴシック";
