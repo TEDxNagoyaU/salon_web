@@ -41,10 +41,14 @@ a.btn-gradient:hover {
 .title {
   padding: 3rem;
   text-align: center;
-  font-size: 2.75rem;
   height: auto;
+  margin: 0 auto;
   opacity: 0.85;
   font-family: "Std B", "筑紫B丸ゴシック";
+}
+
+.title-tedxnagoyau {
+  font-size: 2.5rem;
 }
 
 
@@ -54,6 +58,7 @@ a.btn-gradient:hover {
   animation-duration: 2.5s;
   animation-fill-mode: forwards;
   opacity: 0;
+  font-size: 2.75rem;
 }
 @keyframes fadeInAnime {
   from {
